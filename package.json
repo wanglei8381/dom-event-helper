@@ -1,0 +1,24 @@
+{
+  "name": "dom-event-helper",
+  "version": "0.0.1",
+  "description": "增强DOM元素事件操作",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "wanglei",
+  "keywords": [
+    "dom-event-helper",
+    "dom",
+    "event",
+    "helper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wanglei8381/dom-event-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wanglei8381/dom-event-helper/issues"
+  },
+  "dependencies": {
+    "super-event": "^0.0.1"
+  }
+}
