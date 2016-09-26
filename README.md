@@ -1,6 +1,6 @@
 #dom-event-helper
  <h5>增强DOM元素事件操作</h5>
- <h6>主要解决移除事件监听问题,在removeEventListener中不能删除指定的事件名
+ <h6>主要解决移除事件监听问题,在removeEventListener中不能删除指定的事件名<br>
  用户自定义的事件不包括在内,需要使用提供的API</h6>
 ##Install
 npm install dom-event-helper

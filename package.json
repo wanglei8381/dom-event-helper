@@ -17,8 +17,5 @@
   },
   "bugs": {
     "url": "https://github.com/wanglei8381/dom-event-helper/issues"
-  },
-  "dependencies": {
-    "super-event": "^0.0.1"
   }
 }
