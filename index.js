@@ -36,17 +36,6 @@
         }
     };
 
-    //引入Node中
-    Node.prototype.addEvent = function (event, cb, useCapture) {
-        helper.add(this, event, cb, useCapture);
-        return this;
-    }
-
-    Node.prototype.removeEvent = function (event, cb) {
-        helper.remove(this, event, cb);
-        return this;
-    }
-
     if (typeof exports !== 'undefined') {
         if (typeof module !== 'undefined' && module.exports) {
             exports = module.exports = helper;
